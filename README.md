@@ -68,15 +68,3 @@ for linha in tabela.index:
     pyautogui.press("enter")
 
     pyautogui.scroll(5000)
-
-
-
-
-
-
-
-
-# passo 2: fazer login
-# passo 3: importar base de dados
-# passo 4: cadastrar um produto
-# passo 5: repetir o processo de cadastro até acabar
